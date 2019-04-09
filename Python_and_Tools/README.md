@@ -1,4 +1,4 @@
-# Pytho Basics
+# Python Basics
 
 ## Introduction
 
